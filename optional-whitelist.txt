@@ -1,0 +1,22 @@
+# GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
+prod.telemetry.ros.rockstargames.com
+
+# Bild.de
+acdn.adnxs.com
+cdn1.smartadserver.com
+ec-ns.sascdn.com
+
+# Netflix - Domains needed for netlix to work correctly
+api-global.netflix.com
+appboot.netflix.com
+secure.netflix.com
+
+# Nvidia updates
+ota-downloads.nvidia.com
+
+# Xbox Achievements and game stats sync
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+
+# streamelements.com (Blocked by Pi-hole regex)
+stats.streamelements.com
