@@ -5,6 +5,9 @@ etracker.de
 # Pr0gramm App
 pr0gramm.com
 
+# OneDrive EDU
+livestudentccc-my.sharepoint.com
+
 # GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
 prod.telemetry.ros.rockstargames.com
 
