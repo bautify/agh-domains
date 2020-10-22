@@ -1,8 +1,8 @@
-#Advanzia App
+# Advanzia App
 etracker.com
 etracker.de
 
-#Pr0gramm App
+# Pr0gramm App
 pr0gramm.com
 
 # GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
