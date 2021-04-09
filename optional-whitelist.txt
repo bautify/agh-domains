@@ -2,6 +2,11 @@
 etracker.com
 etracker.de
 
+# Bild.de
+acdn.adnxs.com
+cdn1.smartadserver.com
+ec-ns.sascdn.com
+
 # GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
 prod.telemetry.ros.rockstargames.com
 
@@ -13,15 +18,8 @@ secure.netflix.com
 # Nvidia updates
 ota-downloads.nvidia.com
 
-# OneDrive EDU
-livestudentccc-my.sharepoint.com
-
 # Pr0gramm App
 pr0gramm.com
-
-# streamelements.com (Blocked by Pi-hole regex)
-stats.streamelements.com
-
 
 # Xbox Achievements and game stats sync
 v10.events.data.microsoft.com
